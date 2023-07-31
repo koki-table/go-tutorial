@@ -1,3 +1,3 @@
 ### Go Web Examples
 
-(練習用)[https://gowebexamples.com/]のサンプルコードを写経していく。
+[GO 公式チュートリアル](https://gowebexamples.com/)のサンプルコードを参考に GO の基本を学ぶ。
